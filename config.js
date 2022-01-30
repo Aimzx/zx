@@ -4,9 +4,9 @@
 
 module.exports = {
   bot: {
-    token: 'TOKEN', // discord token
+    token: 'NzQxNzk5Mzk0NDUzNDg3NjQ4.Xy80hQ.znCwyM-4lannUwCvdDNq00ltlSA', // discord token
     mode: 'regular', // either "dev", "beta" or "regular". the latter is default.
-    clientId: '123456789' // discord client id
+    clientId: '741799394453487648' // discord client id
   },
   mode: {
     name: 'single', // "single" = no sharding, "shard" = sharding, "worker" = auto-sharding
